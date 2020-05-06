@@ -1,5 +1,5 @@
 # Handwritten_digit_CNN
-Convolutional Neural Network model for processing Hand written digits and accurately classifying them into appropriate classes.
+###### Convolutional Neural Network model for processing Hand written digits and accurately classifying them into appropriate classes.
 
 #### Requirements
 
